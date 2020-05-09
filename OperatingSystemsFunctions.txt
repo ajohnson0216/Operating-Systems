@@ -1,0 +1,3 @@
+An operating system has many functions.  
+One such function is memory Management.  
+Without an OS, programs would execute into memory at the same time, mixing together.
