@@ -5,3 +5,7 @@ Without an OS, programs would execute into memory at the same time, mixing toget
 Operating Systems also serve as Disk Management
 It manages Stored Files properly
 Also manages File Folders for organization
+
+Operating Systems also control all devices attached to a computer. 
+Hardware devices are controlled with device drivers executed by the OS.
+Without an OS, devices couldn't function properly
